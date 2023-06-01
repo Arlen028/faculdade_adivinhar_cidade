@@ -184,6 +184,7 @@ const cidadesCeara = [
   "Várzea Alegre",
   "Viçosa do Ceará",
 ];
+
 let palavrareal = null;
 const playjogo = reset();
 document.getElementById("receber").textContent = playjogo;
